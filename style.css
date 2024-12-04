@@ -1,0 +1,200 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+
+/* menu humberger */
+.menu-icon { 
+    display: none; 
+    font-size: 30px;
+    cursor: pointer;
+} 
+#menu-toggle { 
+    display: none; 
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin: 0 1rem;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 2rem;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 0.5rem;
+}
+
+#about img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border: 2px solid #333;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* section sociaux*/
+.contact-flex{
+    display: flex;
+    flex-flow:row wrap;
+    align-items:center;
+}
+.contact-flex p:first-child{
+    flex : 0 0 40%;
+}
+.contact-flex p:last-child{
+    flex : 0 0 60%;
+}
+.contact-flex p a{
+    font-size: 1.2em;
+}
+.social{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px auto 0px auto;
+}
+.social img{
+    width:40px;
+    height:40px;
+}
+
+form label {
+    display: block;
+    margin-top: 1rem;
+}
+
+form input, form textarea {
+    width: 100%;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+form button {
+    display: block;
+    background: #6603e6;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border: none;
+    margin-top: 1rem;
+    cursor: pointer;
+}
+
+form button:hover {
+    background: #04f410;
+    font-size: 1em;
+    color: rgb(49, 18, 18);
+}
+
+article {
+    background: #f4f4f4;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    position: fixed;
+    width: 100%;
+    max-height: 20px;
+    bottom: 0;
+}
+
+footer p {
+    text-align: center;
+    margin-top: -10px;
+}
+
+/* Animations */
+h1, h2, h3 {
+    animation: fadeIn 2s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+button, a {
+    transition: background 0.3s ease;
+}
+
+
+/* Media Queries */
+
+/* Styles pour les petits appareils (téléphones) */
+@media (max-width: 819px) {
+    nav {
+        flex-direction: column;
+        display: none; 
+        width: 100%; 
+        align-items: start;
+    }
+
+    header:has(h2) {
+        font-size:0.9em;
+        
+    }
+    section:has(h2) {
+        font-size:0.8em;
+    }
+
+    .menu-icon { 
+        display: block; 
+        position: absolute; 
+        top: 10px; 
+        left: 20px;
+    } 
+
+    #menu-toggle:checked + .menu-icon + nav { 
+        display: flex; 
+    }
+    
+
+    header nav a, header nav { 
+    padding: 10px; 
+    border-top: 1px solid #444; 
+    text-align: center;
+    } 
+
+    .menu-icon { 
+    display: block; 
+    position: absolute; 
+    top: 10px; 
+    left: 20px;
+    } 
+
+    #menu-toggle:checked + .menu-icon + nav { 
+    display: flex; 
+    }
+}  
