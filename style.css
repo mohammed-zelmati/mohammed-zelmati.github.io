@@ -41,7 +41,7 @@ header nav ul li a {
 
 main {
     padding: 2rem;
-    background: #300a61;
+    background: #2f3747;
 }
 
 section {
@@ -50,7 +50,7 @@ section {
 }
 
 h2 {
-    border-bottom: 2px solid #333;
+    border-bottom: 2px solid #edeaea;
     padding-bottom: 0.5rem;
 }
 
@@ -121,7 +121,7 @@ form button:hover {
 }
 
 article {
-    background: #f4f4f4;
+    background: #6d6969;
     padding: 1rem;
     margin-bottom: 1rem;
 }
@@ -143,8 +143,9 @@ footer p {
 }
 
 /* Animations */
-h1, h2, h3 {
+h1, h2, h3, p {
     animation: fadeIn 2s ease-in-out;
+    color:rgb(255, 255, 255)
 }
 
 @keyframes fadeIn {
