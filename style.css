@@ -2,17 +2,15 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    line-height: 1.6;
-    
+    line-height: 1.6;  
 }
 
 header {
-    background: #333;
+    background: #070202;
     color: #fff;
     padding: 1rem 0;
     text-align: center;
 }
-
 
 /* menu humberger */
 .menu-icon { 
@@ -66,6 +64,7 @@ h2 {
 }
 #about h1 img {
     height: 60px;
+    background:rgb(230, 230, 230);
 }
 
 /* section sociaux*/
@@ -82,15 +81,37 @@ h2 {
 }
 .contact-flex p a{
     font-size: 1.2em;
+    color:rgb(255, 255, 255);
+}
+.contact-flex p a:hover{
+    font-size: 1.2em;
+    color:rgb(6, 248, 34);
 }
 .social{
     display: flex;
-    justify-content: space-around;
+    flex-wrap: wrap;
+    justify-content:center;
     margin: 10px auto 0px auto;
 }
+
 .social img{
     width:40px;
     height:40px;
+    border-radius: 50%;
+}
+
+.social a {
+    margin-right: 20px;
+}
+
+/* Pour éviter un espace à droite du dernier lien, tu peux utiliser : */
+.social a:last-child {
+    margin-right: 0;
+}
+
+.projects h3 {
+    font-size: 20px;
+    color:rgb(255, 255, 255)
 }
 
 form label {
@@ -121,13 +142,13 @@ form button:hover {
 }
 
 article {
-    background: #6d6969;
+    background: #110f0f;
     padding: 1rem;
     margin-bottom: 1rem;
 }
 
 footer {
-    background: #333;
+    background: #070202;;
     color: #fff;
     text-align: center;
     padding: 1rem 0;
