@@ -22,19 +22,26 @@ header {
     display: none; 
 }
 
-header nav ul {
+header nav {
     list-style: none;
     padding: 0;
 }
 
-header nav ul li {
+header nav a {
     display: inline;
     margin: 0 1rem;
+    color:rgb(230, 230, 230);
 }
 
-header nav ul li a {
+
+
+header nav a {
     color: #fff;
     text-decoration: none;
+}
+
+header nav a:hover {
+    color: #27a31a;
 }
 
 main {
@@ -78,6 +85,7 @@ h2 {
 }
 .contact-flex p:last-child{
     flex : 0 0 60%;
+    font-size: 15px;
 }
 .contact-flex p a{
     font-size: 1.2em;
@@ -151,7 +159,7 @@ footer {
     background: #070202;;
     color: #fff;
     text-align: center;
-    padding: 1rem 0;
+    padding: 20px; /* Ajouter du padding pour plus d'espace */
     position: fixed;
     width: 100%;
     max-height: 20px;
@@ -182,12 +190,12 @@ button, a {
 /* Media Queries */
 
 /* Styles pour les petits appareils (téléphones) */
-@media (max-width: 819px) {
+@media (max-width: 768px) {
     nav {
         flex-direction: column;
         display: none; 
         width: 100%; 
-        align-items: start;
+        align-items: center;
     }
 
     header:has(h2) {
@@ -226,4 +234,28 @@ button, a {
     #menu-toggle:checked + .menu-icon + nav { 
     display: flex; 
     }
-}  
+
+    footer {
+        text-align: center; /* Centrer le texte */
+        padding: 15px; /* Ajouter du padding pour plus d'espace */
+    }
+
+    footer p {
+        font-size: 14px; /* Réduire la taille du texte pour les petits écrans */
+    }
+} 
+
+/* Media query pour les très petits écrans */
+@media (max-width: 480px) {
+    footer {
+        padding: 10px; /* Réduire encore plus le padding */
+    }
+
+    footer p {
+        font-size: 12px; /* Réduire encore plus la taille du texte */
+    }
+    footer:has(p) {
+        font-size:0.8em;
+        
+    }
+}
