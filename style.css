@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    background: #300a61;
+    
 }
 
 header {
@@ -41,6 +41,7 @@ header nav ul li a {
 
 main {
     padding: 2rem;
+    background: #300a61;
 }
 
 section {
