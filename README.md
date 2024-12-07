@@ -1,4 +1,4 @@
-# Ma presentation
+<h1 align="center">Ma presentation</h1> 
 <div align="center" >
     <img src="images/admin-reseau.jpg" alt="Administrateur Systèmes et Réseaux"> 
 </div>
@@ -66,10 +66,10 @@ Passionné par la technologie et le développement, je suis un professionnel ave
 - **Développeur Principal** pour un projet d'intégration de système, réduisant les temps de traitement des données de 30%.
 - **Contributeur Open Source** avec plusieurs projets et bibliothèques partagés sur GitHub.
 
-#### Certifications :
-- **Certification AWS Certified Solutions Architect**
-- **Certification PMP (Project Management Professional)**
-- **Certification Scrum Master**
+#### Diplôme et titre  :
+- **Titre professionnel Développeur web et web mobile niveau 5**
+- **Diplôme licence Comptabilité et Gestion**
+ <br>
 
 Je suis toujours à la recherche de nouvelles opportunités pour apprendre et innover, et j'aime collaborer avec des équipes diversifiées pour résoudre des défis techniques.
  
@@ -79,18 +79,16 @@ Je suis toujours à la recherche de nouvelles opportunités pour apprendre et in
 <div align="center">
   <h2>🐍 Les badges et les trophées 🐍</h2>
   <br>
-    ## Badges et Trophées
-
 <div align="center">
-  <!-- Certification AWS -->
-  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-blue" alt="AWS Certified Solutions Architect" />
+  <!-- Titre pro dwwm  -->
+  <img src="https://img.shields.io/badge/DWWM-Titre Professionnel-blue" alt="TP-DWWM Niveau 5 " />
 
-  <!-- Certification PMP -->
-  <img src="https://img.shields.io/badge/PMP-Certified-orange" alt="PMP Certified" />
+  <!-- Diplôme licence comptabilité et gestion -->
+  <img src="https://img.shields.io/badge/Licence Comptabilité et gestion-Diplôme-brightgreen" alt="Diplôme clicence compta et gestion" />
 
   <!-- Certification Scrum Master -->
-  <img src="https://img.shields.io/badge/Scrum%20Master-Certified-brightgreen" alt="Scrum Master Certified" />
-
+  <!--img src="https://img.shields.io/badge/Scrum%20Master-Certified-yellow" alt="Scrum Master Certified" /-->
+<br><br>
   <!-- GitHub Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=mohammed-zelmati" alt="GitHub Trophies" />
 </div>
