@@ -70,9 +70,9 @@ Passionné par la technologie et le développement, je suis un professionnel ave
 - **Titre professionnel Développeur web et web mobile niveau 5**
 - **Diplôme licence Comptabilité et Gestion**
  <br>
-
 Je suis toujours à la recherche de nouvelles opportunités pour apprendre et innover, et j'aime collaborer avec des équipes diversifiées pour résoudre des défis techniques.
- 
+![Green Paragraph](https://img.shields.io/badge/Je suis toujours à la recherche de nouvelles opportunités pour apprendre et innover,-brightgreen)
+![Green Paragraph](https://img.shields.io/badge/ et j'aime collaborer avec des équipes diversifiées pour résoudre des défis techniques.-brightgreen)
   <br/><br/><br/>
 </div>
 <hr/>
