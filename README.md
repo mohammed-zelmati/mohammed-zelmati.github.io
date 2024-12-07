@@ -107,6 +107,7 @@ Je suis toujours à la recherche de nouvelles opportunités pour apprendre et in
 <div align="center">
     <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=mohammed-zelmati.presentation"/> 
 </div>
+<br>
 <div align="center" >
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mohammed-zelmati&show_icons=true&theme=radical" />
 </div>
@@ -117,7 +118,7 @@ Je suis toujours à la recherche de nouvelles opportunités pour apprendre et in
 💬 Posez-moi des questions  **[Cliquez ici](https://github.com/mohammed-zelmati/presentation/issues)**
 
  </div>
- 
+ <br>
 <div align="center">
   <a href="mailto:mohammed.zelmati@laplateforme.io">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Logo" />
