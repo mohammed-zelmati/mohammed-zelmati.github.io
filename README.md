@@ -85,9 +85,12 @@ Je suis toujours à la recherche de nouvelles opportunités pour apprendre et in
 
   <!-- Diplôme licence comptabilité et gestion -->
   <img src="https://img.shields.io/badge/Licence Comptabilité et gestion-Diplôme-brightgreen" alt="Diplôme clicence compta et gestion" />
-
-  <!-- Certification Scrum Master -->
-  <!--img src="https://img.shields.io/badge/Scrum%20Master-Certified-yellow" alt="Scrum Master Certified" /-->
+ <br>
+  <!-- Certification Faire preuve de prudence : gestion des risques de sécurité Coursica -->
+  <img src="https://img.shields.io/badge/gestion des risques de sécurité%20Coursica-Certified-yellow" alt="Coursica Certified" />
+ 
+  <!-- Certification Fondamentaux de la cybersécurité Coursica -->
+  <img src="https://img.shields.io/badge/Fondamentaux de la cybersécurité%20Coursica-Certified-pink" alt="Coursica Certified" />
 <br><br>
   <!-- GitHub Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=mohammed-zelmati" alt="GitHub Trophies" />
