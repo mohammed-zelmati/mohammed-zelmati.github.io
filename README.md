@@ -57,7 +57,7 @@
 <div align="center">
   <h2>🐍 biographie professionnelle 🐍</h2>
   <br>
-  <!--img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ZELMAT/Mohammed-ZELMATI/output/github-contribution-grid-snake.svg" /-->
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mohammed-zelmati/mohammed-zelmati/output/github-contribution-grid-snake.svg" />
  
   <br/><br/><br/>
 </div>
