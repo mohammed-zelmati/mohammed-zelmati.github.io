@@ -94,7 +94,8 @@ Je suis toujours à la recherche de nouvelles opportunités pour apprendre et in
   <img src="https://img.shields.io/badge/ Bases de la conception Expérience Utilisateur (UX)%20Coursica-Certified-brown" alt="Coursica Certified" />
 <br><br>
   <!-- GitHub Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammed-zelmati" alt="GitHub Trophies" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammed-zelmati&theme=onedark" alt="GitHub Trophies" />
 </div>
 
   <br/><br/><br/>
