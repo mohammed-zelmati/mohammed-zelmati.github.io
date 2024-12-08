@@ -19,7 +19,6 @@
 
 ⚡  **Contact**
  </div>
- 
 <div align="center">
   <a href="mailto:mohammed.zelmati@laplateforme.io">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Logo" />
@@ -53,7 +52,7 @@
 </div>
   <br>
 
-Passionné par la technologie et le développement, je suis un professionnel avec une solide expérience en gestion de projets et en développement logiciel. Avec un diplôme en informatique et plusieurs années d'expérience dans le secteur, j'ai acquis des compétences approfondies en programmation, en conception de systèmes et en résolution de problèmes complexes.
+Passionné par la technologie et le développement, je suis un professionnel avec une solide expérience en gestion de projets. Avec un diplôme en comptabilité et informatique et plusieurs années d'expérience dans le secteur, j'ai acquis des compétences en programmation, en conception de systèmes et en résolution de problèmes.
 
 ### Compétences Clés :
 - **Langages de Programmation** : Python, Php, JavaScript, Java 
@@ -148,10 +147,10 @@ $python tic_tac_toe.py
 </p>
 <hr/>
 <h2 align="center">⚡ Actions GitHub ⚡</h2>
-<div align="center" >
-
+<p>à refaire...</p>
+<!--div align="center" >
 <img src="https://github.com/mohammed-zelmati/mohammed-zelmati.github.io/actions/workflows/ci.yml/badge.svg" alt="CI Build Status" />
-</div>
+</div-->
 <hr/>
 <h2 align="center">⚡ les réseaux sociaux professionnels ⚡</h2> 
 
