@@ -1,4 +1,4 @@
-<h1 align="center">Ma presentation</h1> 
+# Ma presentation
 <div align="center" >
     <img src="images/admin-reseau.jpg" alt="Administrateur Systèmes et Réseaux"> 
 </div>
@@ -66,36 +66,33 @@ Passionné par la technologie et le développement, je suis un professionnel ave
 - **Développeur Principal** pour un projet d'intégration de système, réduisant les temps de traitement des données de 30%.
 - **Contributeur Open Source** avec plusieurs projets et bibliothèques partagés sur GitHub.
 
-#### Diplôme et titre  :
-- **Titre professionnel Développeur web et web mobile niveau 5**
-- **Diplôme licence Comptabilité et Gestion**
-<br>
+#### Certifications :
+- **Certification AWS Certified Solutions Architect**
+- **Certification PMP (Project Management Professional)**
+- **Certification Scrum Master**
+
 Je suis toujours à la recherche de nouvelles opportunités pour apprendre et innover, et j'aime collaborer avec des équipes diversifiées pour résoudre des défis techniques.
-<br/><br/><br/>
+ 
+  <br/><br/><br/>
 </div>
 <hr/>
 <div align="center">
   <h2>🐍 Les badges et les trophées 🐍</h2>
   <br>
+    ## Badges et Trophées
+
 <div align="center">
-  <!-- Titre pro dwwm  -->
-  <img src="https://img.shields.io/badge/DWWM-Titre Professionnel-blue" alt="TP-DWWM Niveau 5 " />
+  <!-- Certification AWS -->
+  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-blue" alt="AWS Certified Solutions Architect" />
 
-  <!-- Diplôme licence comptabilité et gestion -->
-  <img src="https://img.shields.io/badge/Licence Comptabilité et gestion-Diplôme-brightgreen" alt="Diplôme clicence compta et gestion" />
- 
-  <!-- Certification Faire preuve de prudence : gestion des risques de sécurité Coursica -->
-  <img src="https://img.shields.io/badge/gestion des risques de sécurité%20Coursica-Certified-yellow" alt="Coursica Certified" />
- <br>
-  <!-- Certification Fondamentaux de la cybersécurité Coursica -->
-  <img src="https://img.shields.io/badge/Fondamentaux de la cybersécurité%20Coursica-Certified-pink" alt="Coursica Certified" />
+  <!-- Certification PMP -->
+  <img src="https://img.shields.io/badge/PMP-Certified-orange" alt="PMP Certified" />
 
-   <!-- Certification  Bases de la conception Expérience Utilisateur (UX) Coursica -->
-  <img src="https://img.shields.io/badge/ Bases de la conception Expérience Utilisateur (UX)%20Coursica-Certified-brown" alt="Coursica Certified" />
-<br><br>
+  <!-- Certification Scrum Master -->
+  <img src="https://img.shields.io/badge/Scrum%20Master-Certified-brightgreen" alt="Scrum Master Certified" />
+
   <!-- GitHub Trophy -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammed-zelmati&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammed-zelmati" alt="GitHub Trophies" />
 </div>
 
   <br/><br/><br/>
@@ -112,18 +109,21 @@ Je suis toujours à la recherche de nouvelles opportunités pour apprendre et in
 <div align="center">
     <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=mohammed-zelmati.presentation"/> 
 </div>
-<br>
 <div align="center" >
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mohammed-zelmati&show_icons=true&theme=radical" />
 </div>
-
+<hr/>
+<h2 align="center">⚡ Actions GitHub ⚡</h2>
+<div align="center" >
+  <img src="https:///mohammed-zelmati.github.io/actions/workflows/ci.yml/badge.svg" alt="CI Build Status" />
+</div>
 <hr/>
 <h2 align="center">⚡ les réseaux sociaux professionnels ⚡</h2> 
 
 💬 Posez-moi des questions  **[Cliquez ici](https://github.com/mohammed-zelmati/presentation/issues)**
 
  </div>
- <br>
+ 
 <div align="center">
   <a href="mailto:mohammed.zelmati@laplateforme.io">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email Logo" />
