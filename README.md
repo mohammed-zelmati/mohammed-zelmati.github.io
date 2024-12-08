@@ -62,8 +62,8 @@ Passionné par la technologie et le développement, je suis un professionnel ave
 - **Outils et Plateformes** : GitHub, Docker, AWS
 
 #### Réalisations :
-- **Chef de Projet** pour le développement d'une application de gestion de tâches, augmentant la productivité de l'équipe de 20%.
-- **Développeur Principal** pour un projet d'intégration de système, réduisant les temps de traitement des données de 30%.
+- **Participation de Projet** pour le développement d'une application de gestion de tâches, augmentant la productivité de l'équipe de 20%.
+- **Développeur** pour un projet d'intégration de système, réduisant les temps de traitement des données de 30%.
 - **Contributeur Open Source** avec plusieurs projets et bibliothèques partagés sur GitHub.
 
 #### Certifications :
@@ -97,10 +97,7 @@ Je suis toujours à la recherche de nouvelles opportunités pour apprendre et in
   <br/><br/><br/>
 </div>
 <hr/>
-<div align="center">
-  <h2>🐍 liste de projets 🐍</h2>
-  <br> 
-</div>
+
 <br/>
 <hr/>
 <h2 align="center">⚡ Statistiques ⚡</h2>
@@ -111,10 +108,13 @@ Je suis toujours à la recherche de nouvelles opportunités pour apprendre et in
 </div>
 <div align="center" >
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mohammed-zelmati&show_icons=true&theme=radical&v=1" />
-
 </div>
-<h2 align="center">⚡ Projets réalisés ⚡</h2>
-<h3>1- Tic-Tac-Toe</h3>
+<br>
+<div align="center">
+    <h2>🐍 Projets 🐍</h2>
+</div>
+<br>
+<h3>Projet 1- Tic-Tac-Toe</h3>
 <h4> Description du Projet :</h4>
 <p>Ce projet implémente un jeu de **Tic-Tac-Toe** en utilisant Python avec les bibliothèques Tkinter et Pygame. Il permet de jouer à ce jeu classique soit contre un autre joueur humain, soit contre une intelligence artificielle (IA).</p>
 
@@ -128,7 +128,21 @@ Pour exécuter le jeu, assure-toi que les bibliothèques Tkinter et Pygame sont 
 
 ##### Exécuter le script Python
 $python tic_tac_toe.py
-
+<br>
+<h3>Projet 2- fansite</h3>
+<p>Ce projet Fansite est une plateforme dédiée à diverses passions et célébrités, 
+    offrant des sections distinctes pour différents sujets d'intérêt. 
+    Conçu avec HTML et CSS, ce site présente une interface conviviale et
+    attrayante pour les visiteurs. Voici un aperçu des célébrités :<br><br>
+    <strong>L'équitation : </strong>Une introduction à l'art et au sport de l'équitation, mettant en lumière
+    les diverses disciplines et la relation unique entre le cavalier et le cheval. Inclut 
+    des statistiques sur la popularité de l'équitation en France.<br><br>
+    <strong>Young Thug :</strong> Présentation du célèbre rappeur américain, Young Thug, en mettant en avant 
+    son influence dans le monde de la musique trap et quelques-unes de ses controverses.<br><br>
+    <strong>The Flash :</strong> Un aperçu de la série télévisée américaine "The Flash", basée sur le 
+    personnage de Barry Allen de l'univers DC Comics. Décrit l'intrigue principale et la 
+    diffusion de la série.
+</p>
 <hr/>
 <h2 align="center">⚡ Actions GitHub ⚡</h2>
 <div align="center" >
