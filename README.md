@@ -79,7 +79,6 @@ Je suis toujours à la recherche de nouvelles opportunités pour apprendre et in
 <div align="center">
   <h2>🐍 Les badges et les trophées 🐍</h2>
   <br>
-    ## Badges et Trophées
 
 <div align="center">
   <!-- Certification AWS -->
@@ -108,14 +107,17 @@ Je suis toujours à la recherche de nouvelles opportunités pour apprendre et in
 <br>
 <div align="center">
     <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=mohammed-zelmati.presentation"/> 
+
 </div>
 <div align="center" >
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mohammed-zelmati&show_icons=true&theme=radical" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mohammed-zelmati&show_icons=true&theme=radical&v=1" />
+
 </div>
 <hr/>
 <h2 align="center">⚡ Actions GitHub ⚡</h2>
 <div align="center" >
-  <img src="https:///mohammed-zelmati.github.io/actions/workflows/ci.yml/badge.svg" alt="CI Build Status" />
+
+<img src="https://github.com/mohammed-zelmati/mohammed-zelmati.github.io/actions/workflows/ci.yml/badge.svg" alt="CI Build Status" />
 </div>
 <hr/>
 <h2 align="center">⚡ les réseaux sociaux professionnels ⚡</h2> 
