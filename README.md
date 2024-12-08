@@ -62,8 +62,8 @@ Passionné par la technologie et le développement, je suis un professionnel ave
 - **Outils et Plateformes** : GitHub, Docker, AWS
 
 #### Réalisations :
-- **Participation de Projet** pour le développement d'une application de gestion de tâches, augmentant la productivité de l'équipe de 20%.
-- **Développeur** pour un projet d'intégration de système, réduisant les temps de traitement des données de 30%.
+- **Chef de Projet** pour le développement d'une application de gestion de tâches, augmentant la productivité de l'équipe de 20%.
+- **Développeur Principal** pour un projet d'intégration de système, réduisant les temps de traitement des données de 30%.
 - **Contributeur Open Source** avec plusieurs projets et bibliothèques partagés sur GitHub.
 
 #### Certifications :
