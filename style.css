@@ -54,9 +54,12 @@ section {
     
 }
 
-h2, h3, h4, h5 {
+h2, h3{
     border-bottom: 2px solid #edeaea;
     padding-bottom: 0.5rem;
+}
+h3, h4, h5 {
+    color:rgb(230, 230, 230);
 }
 
 #about img {
