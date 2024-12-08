@@ -50,34 +50,37 @@
 <hr/>
 <div align="center">
   <h2>🐍 biographie professionnelle 🐍</h2>
+</div>
   <br>
 
 Passionné par la technologie et le développement, je suis un professionnel avec une solide expérience en gestion de projets et en développement logiciel. Avec un diplôme en informatique et plusieurs années d'expérience dans le secteur, j'ai acquis des compétences approfondies en programmation, en conception de systèmes et en résolution de problèmes complexes.
 
-#### Compétences Clés :
+### Compétences Clés :
 - **Langages de Programmation** : Python, Php, JavaScript, Java 
 - **Technologies Web** : HTML, CSS, React, Node.js
+- **Conception** : canva, Figma, Belsamiq
 - **Gestion de Projets** : Agile, Trello
 - **Bases de Données** : MySQL, PostgreSQL, MongoDB
-- **Outils et Plateformes** : GitHub, Docker, AWS
+- **Outils et Plateformes** : GitHub , Docker
 
-#### Réalisations :
-- **Chef de Projet** pour le développement d'une application de gestion de tâches, augmentant la productivité de l'équipe de 20%.
-- **Développeur Principal** pour un projet d'intégration de système, réduisant les temps de traitement des données de 30%.
-- **Contributeur Open Source** avec plusieurs projets et bibliothèques partagés sur GitHub.
-
-#### Certifications :
-- **Certification AWS Certified Solutions Architect**
-- **Certification PMP (Project Management Professional)**
-- **Certification Scrum Master**
-
-Je suis toujours à la recherche de nouvelles opportunités pour apprendre et innover, et j'aime collaborer avec des équipes diversifiées pour résoudre des défis techniques.
+### Certifications :
+- **Certification Coursica Certified Bases de la conception Expérience Utilisateur (UX)**
+- **Certification Coursica Certified Faire preuve de prudence: gestion des risques de sécurité**
+- **Certification Coursica Certified Fondamentaux de la cybersécurité**
+  <br>
+### Diplôme et Titre Pro. :
+- **Diplôme licence Comptabilité et Gestion**
+- **Titre Professionnel niveau 5 Développeur web et web mobile**
+<br/>
+<strong>Je suis toujours à la recherche de nouvelles opportunités pour apprendre et innover, et j'aime collaborer avec des équipes diversifiées pour résoudre des défis techniques.</strong>
  
-  <br/><br/><br/>
-</div>
+  <br/><br/>
+
 <hr/>
+<div>
 <div align="center">
   <h2>🐍 Les badges et les trophées 🐍</h2>
+</div>
   <br>
 
 <div align="center">
