@@ -113,6 +113,22 @@ Je suis toujours à la recherche de nouvelles opportunités pour apprendre et in
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mohammed-zelmati&show_icons=true&theme=radical&v=1" />
 
 </div>
+<h2 align="center">⚡ Projets réalisés ⚡</h2>
+<h3>1- Tic-Tac-Toe</h3>
+<h4> Description du Projet :</h4>
+<p>Ce projet implémente un jeu de **Tic-Tac-Toe** en utilisant Python avec les bibliothèques Tkinter et Pygame. Il permet de jouer à ce jeu classique soit contre un autre joueur humain, soit contre une intelligence artificielle (IA).</p>
+
+<h5>Fonctionnalités</h5> 
+- Interface Graphique Utilisateur (GUI) : Utilise Tkinter pour créer une interface utilisateur intuitive et interactive.<br>
+- Sons de Clic : Intègre Pygame pour ajouter des effets sonores lors des clics sur les boutons.<br>
+- Mode de Jeu : Possibilité de jouer en mode joueur contre joueur ou contre l'IA.<br>
+- Algorithme Minimax : Implémente l'algorithme Minimax pour déterminer les meilleurs coups de l'IA, offrant ainsi un défi intéressant aux joueurs.<br>
+<h5>Exécution du Jeu</h5> 
+Pour exécuter le jeu, assure-toi que les bibliothèques Tkinter et Pygame sont installées. Lance le script Python, et l'application GUI s'ouvrira avec le jeu de Tic-Tac-Toe.
+
+##### Exécuter le script Python
+$python tic_tac_toe.py
+
 <hr/>
 <h2 align="center">⚡ Actions GitHub ⚡</h2>
 <div align="center" >
