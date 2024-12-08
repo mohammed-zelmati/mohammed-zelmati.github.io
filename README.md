@@ -69,11 +69,9 @@ Passionné par la technologie et le développement, je suis un professionnel ave
 #### Diplôme et titre  :
 - **Titre professionnel Développeur web et web mobile niveau 5**
 - **Diplôme licence Comptabilité et Gestion**
- <br>
+<br>
 Je suis toujours à la recherche de nouvelles opportunités pour apprendre et innover, et j'aime collaborer avec des équipes diversifiées pour résoudre des défis techniques.
-![Green Paragraph](https://img.shields.io/badge/Je suis toujours à la recherche de nouvelles opportunités pour apprendre et innover,-brightgreen)
-![Green Paragraph](https://img.shields.io/badge/ et j'aime collaborer avec des équipes diversifiées pour résoudre des défis techniques.-brightgreen)
-  <br/><br/><br/>
+<br/><br/><br/>
 </div>
 <hr/>
 <div align="center">
@@ -85,12 +83,15 @@ Je suis toujours à la recherche de nouvelles opportunités pour apprendre et in
 
   <!-- Diplôme licence comptabilité et gestion -->
   <img src="https://img.shields.io/badge/Licence Comptabilité et gestion-Diplôme-brightgreen" alt="Diplôme clicence compta et gestion" />
- <br>
+ 
   <!-- Certification Faire preuve de prudence : gestion des risques de sécurité Coursica -->
   <img src="https://img.shields.io/badge/gestion des risques de sécurité%20Coursica-Certified-yellow" alt="Coursica Certified" />
- 
+ <br>
   <!-- Certification Fondamentaux de la cybersécurité Coursica -->
   <img src="https://img.shields.io/badge/Fondamentaux de la cybersécurité%20Coursica-Certified-pink" alt="Coursica Certified" />
+
+   <!-- Certification  Bases de la conception Expérience Utilisateur (UX) Coursica -->
+  <img src="https://img.shields.io/badge/ Bases de la conception Expérience Utilisateur (UX)%20Coursica-Certified-brown" alt="Coursica Certified" />
 <br><br>
   <!-- GitHub Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=mohammed-zelmati" alt="GitHub Trophies" />
