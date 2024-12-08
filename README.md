@@ -72,26 +72,29 @@ Passionné par la technologie et le développement, je suis un professionnel ave
 - **Titre Professionnel niveau 5 Développeur web et web mobile**
 <br/>
 <strong>Je suis toujours à la recherche de nouvelles opportunités pour apprendre et innover, et j'aime collaborer avec des équipes diversifiées pour résoudre des défis techniques.</strong>
- 
   <br/><br/>
-
 <hr/>
 <div>
 <div align="center">
   <h2>🐍 Les badges et les trophées 🐍</h2>
 </div>
   <br>
-
 <div align="center">
-  <!-- Certification AWS -->
-  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-blue" alt="AWS Certified Solutions Architect" />
+  <!-- Diplôme Licence Comptabilité et Gestion -->
+  <img src="https://img.shields.io/badge/Diplôme-Licence Comptabilité et Gestion-orange" alt="Diplôme" />
 
-  <!-- Certification PMP -->
-  <img src="https://img.shields.io/badge/PMP-Certified-orange" alt="PMP Certified" />
+  <!-- Titre Professionnel DWWM -->
+  <img src="https://img.shields.io/badge/Titre Professionnel-DWWM niveau 5-brown" alt="Titre" />
+    
+  <!-- Certification 1 Coursica -->
+  <img src="https://img.shields.io/badge/Gestion des risques de sécurité-Coursica-blue" alt="Coursica Certified" />
 
-  <!-- Certification Scrum Master -->
-  <img src="https://img.shields.io/badge/Scrum%20Master-Certified-brightgreen" alt="Scrum Master Certified" />
+  <!-- Certification 2 Coursica -->
+  <img src="https://img.shields.io/badge/Coursica Certified-Fondamentaux de la cybersécurité-yellow" alt="Coursica Certified" />
 
+  <!-- Certification 3 Coursica -->
+  <img src="https://img.shields.io/badge/Bases de la conception Expérience Utilisateur (UX)-CoursicaCertified-brightgreen" alt="Coursica Certified" />
+      <br/><br/><br/>
   <!-- GitHub Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=mohammed-zelmati" alt="GitHub Trophies" />
 </div>
