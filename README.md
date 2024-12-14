@@ -1,6 +1,6 @@
 # Ma presentation
 <div align="center" >
-    <img src="images/Portfolio-IA.jpg" alt="IA" width=900px ; height=100px> 
+    <img src="images/Portfolio-IA.jpg" alt="IA" width=900px ; height=200px> 
 </div>
 <div align="center" >
     <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=mohammed-zelmati.presentation" />
