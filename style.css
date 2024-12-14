@@ -178,7 +178,13 @@ footer p {
 /* Animations */
 h1, h2, h3, p {
     animation: fadeIn 2s ease-in-out;
-    color:rgb(255, 255, 255)
+}
+p {
+    color: #edeaea;
+}
+
+h2 {
+    color:aqua;
 }
 h3 {
     color:rgb(245, 237, 171);
