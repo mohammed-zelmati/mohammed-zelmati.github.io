@@ -1,19 +1,20 @@
 # Ma presentation
 <div align="center" >
-    <img src="images/admin-reseau.jpg" alt="Administrateur Systèmes et Réseaux"> 
+    <img src="images/Portfolio-IA.jpg" alt="IA"> 
 </div>
 <div align="center" >
     <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=mohammed-zelmati.presentation" />
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Salut!+👋;+Je+suis+Mohammed+ZELMATI+!;+🔭+Espérant+administrateur+système+et+réseaux;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?&font=Righteous&size=35&center=true&vCenter=true&center=true&width=900&height=70&duration=5000&lines=Salut!+👋;+Je+suis+Mohammed+ZELMATI+!;Espérant+en+Data+Scientist;" />
+           
 </h1>
 <h3 align="center">Un administrateur cybersécurité passionné  de Bouches-Du-rhône France</h3>
 <br/>
 <div align="center">
  
- 🌱 J'apprends actuellement **La Cybersécurité à La plateforme Marseille**
+ 🌱 J'apprends actuellement **L'IA à La plateforme Marseille**
 
 💬 Posez-moi des questions  **[Cliquez ici](https://github.com/mohammed-zelmati/presentation/issues)**
 
