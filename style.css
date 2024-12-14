@@ -33,8 +33,6 @@ header nav a {
     color:rgb(230, 230, 230);
 }
 
-
-
 header nav a {
     color: #fff;
     text-decoration: none;
@@ -198,7 +196,6 @@ button, a {
     transition: background 0.3s ease;
 }
 
-
 /* Media Queries */
 
 /* Styles pour les petits appareils (téléphones) */
@@ -229,7 +226,6 @@ button, a {
         display: flex; 
     }
     
-
     header nav a, header nav { 
     padding: 10px; 
     border-top: 1px solid #444; 
@@ -267,7 +263,6 @@ button, a {
         font-size: 12px; /* Réduire encore plus la taille du texte */
     }
     footer:has(p) {
-        font-size:0.8em;
-        
+        font-size:0.8em;   
     }
 }
